@@ -1,0 +1,1 @@
+const issquare= (Number)=>Number.isInteger(Math.sqrt(3));
